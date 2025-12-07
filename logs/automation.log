@@ -1,0 +1,657 @@
+2025-11-13 07:22:19 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-13 07:22:20 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 07:22:25 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-13 07:23:25 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 07:30:17 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-13 07:30:18 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 07:30:23 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-13 07:31:28 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 07:31:38 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-13 23:45:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-13 23:45:28 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-13 23:45:28 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 23:45:28 INFO  pageObjects.AlarmLoginPage - Show Password Clicked
+2025-11-13 23:45:28 INFO  pageObjects.AlarmLoginPage - NoPassword enteredPlease enter a password.
+2025-11-13 23:45:29 INFO  pageObjects.AlarmLoginPage - Clicked check button
+2025-11-13 23:45:34 INFO  pageObjects.AlarmLoginPage - Clicked rememberMe
+2025-11-13 23:45:34 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-13 23:46:24 INFO  pageObjects.AlarmLoginPage - Forgot Username Password CalledForgot Username or Password?
+2025-11-13 23:46:24 INFO  pageObjects.AlarmLoginPage - lnkSSO Called Forgot Username or Password?
+2025-11-13 23:46:24 INFO  pageObjects.AlarmLoginPage - rememberMeTextmethodRemember Me
+2025-11-13 23:46:41 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-13 23:46:51 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-13 23:46:52 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 00:20:51 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 00:20:51 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 00:20:51 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 00:20:51 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:20:51 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 00:20:52 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 00:20:52 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 00:21:03 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 00:39:00 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 00:39:00 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 00:39:00 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 00:39:00 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:39:00 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 00:39:00 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 00:39:01 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 00:39:12 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 00:46:24 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 00:46:25 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 00:46:36 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 00:51:09 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 00:51:09 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 00:51:09 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 00:51:09 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:51:09 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 00:51:10 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 00:51:10 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 00:51:10 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 00:51:10 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 00:51:10 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 00:51:21 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:06:53 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:06:53 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:06:53 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:06:53 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:06:53 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:06:53 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 01:07:04 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:08:52 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:08:52 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:08:52 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:08:52 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:08:53 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:09:04 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:09:40 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:09:40 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:09:40 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:09:40 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:09:40 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:09:51 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:11:43 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:11:43 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:11:43 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:11:43 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:11:43 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:11:54 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:16:04 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:16:04 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:16:45 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:16:45 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:16:45 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:16:45 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:16:45 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:16:45 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:16:50 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 01:16:51 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:17:01 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:24:16 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:24:16 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:24:16 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:24:17 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:24:17 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:24:17 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:24:32 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:27:43 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:27:44 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:27:44 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:27:44 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:27:44 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:27:44 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:27:49 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 01:27:49 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:28:00 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:29:30 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:29:31 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:29:31 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:29:31 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:29:31 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:29:31 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:29:36 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 01:29:37 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:29:37 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 01:29:37 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 01:29:37 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 01:29:48 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 01:30:50 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 01:30:50 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:30:55 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 01:30:56 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:30:56 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 01:30:56 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 01:30:56 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 01:30:56 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 01:30:57 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 01:30:57 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 01:30:57 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:09:02 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:09:03 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:09:03 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:09:03 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:10:14 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:10:15 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:10:23 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:10:23 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:10:24 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:10:24 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:10:24 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:10:24 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:10:24 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:10:29 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:10:29 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:10:29 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:10:30 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:10:30 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:10:30 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:10:30 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:10:30 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:10:31 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:11:36 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:11:36 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:11:46 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:11:46 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:11:51 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:11:52 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:11:52 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:11:52 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:11:52 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:11:52 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:11:53 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:11:53 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:11:53 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:26:19 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:26:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:26:28 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:26:33 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:26:34 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:26:34 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:26:34 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:26:34 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:26:34 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:26:35 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:26:35 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:26:35 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:27:12 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:27:12 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:27:13 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:27:13 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:27:13 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:27:13 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:27:13 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:27:18 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:27:18 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:27:19 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:27:19 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:27:19 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:27:19 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:27:19 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:27:19 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:27:28 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:27:28 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:28:08 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:28:08 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:28:08 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:28:08 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:28:08 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:28:09 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:28:09 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:28:14 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:28:14 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:28:14 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:28:14 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:28:14 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:28:15 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:28:15 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:28:15 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:28:16 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-17 02:29:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - Username entered: jci_adc_india
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - No password message: Please enter a password.
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - Remember Me checkbox clicked
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - Show Password clicked
+2025-11-17 02:29:27 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:29:32 INFO  pageObjects.AlarmLoginPage - Forgot Username text: Forgot Username or Password?
+2025-11-17 02:29:33 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:29:33 INFO  pageObjects.AlarmLoginPage - Remember Me label: Remember Me
+2025-11-17 02:29:33 INFO  pageObjects.AlarmLoginPage - SSO text: LOGIN WITH SSO
+2025-11-17 02:29:33 INFO  pageObjects.AlarmLoginPage - Login failed message: Login failed: If your username was entered correctly and further action is needed, an email will be sent to the account on file with more details.
+2025-11-17 02:29:33 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-17 02:29:34 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-17 02:29:44 INFO  testCases.AlarmComLoginTest - Login test executed successfully
+2025-11-17 02:29:44 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:19:47 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:19:48 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:22:42 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:22:43 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:23:30 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:23:30 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:24:28 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:24:29 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:36:20 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:36:22 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:38:05 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:38:16 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:41:54 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:42:05 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:44:18 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:44:18 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-24 01:44:18 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-24 01:44:23 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-24 01:44:36 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-24 01:44:36 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:48:58 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:48:59 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-24 01:48:59 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-24 01:49:06 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-24 01:49:08 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-24 01:54:07 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-24 01:54:07 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-24 01:54:08 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-24 01:54:12 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-24 01:54:15 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-24 01:54:16 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 00:56:50 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 00:56:50 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 00:56:51 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 00:57:00 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 00:57:04 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 00:57:06 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 01:02:55 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 01:02:55 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 01:02:56 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 01:03:01 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 01:03:06 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 01:03:07 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 01:10:25 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 01:10:27 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 01:10:29 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 01:10:36 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 01:10:47 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 01:10:50 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 01:15:53 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 01:15:55 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 01:15:57 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 01:16:04 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 01:16:14 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 01:16:16 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 01:20:21 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 01:20:23 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 01:20:24 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 01:20:31 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 11:02:41 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:40:55 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:40:55 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 23:40:55 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 23:41:00 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 23:41:03 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 23:41:09 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:42:09 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:42:09 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 23:42:09 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 23:42:09 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 23:42:20 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 23:44:32 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:44:38 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:52:21 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:52:27 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:54:07 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:54:14 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:55:26 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:55:26 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 23:55:26 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 23:55:26 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 23:55:37 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 23:55:38 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:57:09 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:57:09 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 23:57:10 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 23:57:17 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 23:57:20 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 23:57:21 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-25 23:58:31 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-25 23:58:31 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-25 23:58:32 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-25 23:58:38 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-25 23:58:41 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-25 23:58:50 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:01:17 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:01:17 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:01:17 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:01:23 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:01:26 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:01:31 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:05:59 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:06:06 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:06:56 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:06:56 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:06:56 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:07:01 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:07:04 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:07:05 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:09:54 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:09:55 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:09:55 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:10:00 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:10:07 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:10:13 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:22:12 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:22:12 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:22:13 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:22:13 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:22:22 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:22:29 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:24:37 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:25:05 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:25:07 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:25:13 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:25:17 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:28:54 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:28:55 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:28:55 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:29:02 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:29:05 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:30:23 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 00:32:00 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:32:18 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 00:32:20 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 00:32:25 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 00:32:30 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 00:41:52 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 00:41:59 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 01:12:21 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 01:12:22 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 01:12:23 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 01:12:29 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 01:12:36 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 01:12:46 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 01:13:58 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 01:13:59 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 01:13:59 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 01:14:06 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 01:14:22 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 01:14:33 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 22:44:37 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 22:44:37 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 22:44:38 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 22:44:44 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 22:44:48 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 22:44:59 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:14:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:14:28 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:14:29 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:14:38 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:14:41 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:14:49 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCataLog Clicked
+2025-11-26 23:14:49 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-26 23:15:01 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:16:09 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:16:09 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:16:10 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:16:18 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:16:36 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:17:51 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:18:09 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:23:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:23:31 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:23:44 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:23:48 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:26:11 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:26:11 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:26:11 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:26:12 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:26:20 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:26:21 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:27:14 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:27:30 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:28:26 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:28:26 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:28:27 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:28:34 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:28:37 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:28:45 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCataLog Clicked
+2025-11-26 23:28:45 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-26 23:28:46 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:34:04 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:34:04 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:34:04 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:34:10 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:34:12 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:34:12 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:34:20 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCataLog Clicked
+2025-11-26 23:34:20 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-26 23:34:31 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:38:09 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:38:24 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:41:30 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:41:30 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:41:30 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:41:36 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:41:38 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:41:38 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:42:04 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:47:43 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:47:43 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:47:43 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:47:48 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:47:51 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:47:51 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:48:17 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:49:44 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:49:45 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:49:45 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:49:50 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:49:53 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:49:53 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:49:59 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:52:23 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:52:24 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:52:24 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:52:24 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:52:32 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:52:33 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:52:39 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:57:10 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:57:10 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:57:11 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:57:16 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:57:20 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:57:20 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:57:27 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-26 23:58:43 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-26 23:58:43 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-26 23:58:43 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-26 23:58:48 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-26 23:58:51 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-26 23:58:51 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-26 23:59:17 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:04:30 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:04:31 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:04:31 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:04:36 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:04:40 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:04:40 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:04:47 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:04:47 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:05:08 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:06:10 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:06:11 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:06:11 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:06:16 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:06:23 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:06:23 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:06:29 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:06:30 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:06:51 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:09:10 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:09:10 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:09:10 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:09:15 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:09:19 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:09:19 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:09:27 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:09:27 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:09:49 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:12:59 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:12:59 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:12:59 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:13:04 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:13:07 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:13:07 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:13:14 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:13:14 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:13:15 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:15:59 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:16:00 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:16:00 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:16:06 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:16:09 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:16:09 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:16:17 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:16:17 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:16:38 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:21:47 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:21:48 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:21:48 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:21:57 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:22:00 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:22:00 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:22:21 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:22:21 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:22:22 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:24:27 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:24:27 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:24:27 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:24:33 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:24:36 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:24:36 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:24:43 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:24:44 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:25:04 ERROR testCases.AlarmDealerCommandCatalogTest - Command Catalog test failed
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on windows (89a82038a9b41a1fa76b284be53b5fe3)] -> xpath: //a[@class='cmd-link' and text()='Alarm Photos']] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\jprashg\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54327}, goog:processID: 12016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54327/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 89a82038a9b41a1fa76b284be53b5fe3
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.16.1.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229) ~[selenium-support-4.16.1.jar:?]
+	at com.Utilities.WaitHelper.waitForElementToBeClickable(WaitHelper.java:23) ~[classes/:?]
+	at pageObjects.AlarmDealerCommandCatalogTestPage.searchBluetooth(AlarmDealerCommandCatalogTestPage.java:55) ~[classes/:?]
+	at testCases.AlarmDealerCommandCatalogTest.CommandCatalog(AlarmDealerCommandCatalogTest.java:19) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.11.0.r202503091654.jar:7.11.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-11-27 00:25:05 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-27 00:32:28 INFO  testCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-27 00:32:28 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-27 00:32:28 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-27 00:32:29 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-27 00:32:36 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-27 00:32:36 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-27 00:32:43 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-27 00:32:44 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-27 00:32:44 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Clicked
+2025-11-27 00:32:45 INFO  testCases.BaseClassAlarmTest - Browser closed
+2025-11-29 03:25:05 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 03:25:32 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 03:32:06 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 03:32:08 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 03:32:09 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 03:32:11 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 03:32:11 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 03:32:11 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 03:32:18 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 03:32:19 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 03:32:25 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 03:32:27 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 03:32:27 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 03:32:28 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 03:32:30 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 03:32:30 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 03:34:49 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 03:34:49 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 03:34:50 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 03:34:56 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 03:35:00 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 03:35:00 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 03:35:08 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-29 03:35:09 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-29 03:35:10 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Clicked
+2025-11-29 03:35:21 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 03:42:46 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 03:42:46 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 03:42:47 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 03:42:52 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 03:42:57 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 03:42:57 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 03:43:05 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-29 03:43:06 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-29 03:43:06 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Clicked
+2025-11-29 03:43:18 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 04:01:05 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 04:01:05 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 04:01:05 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 04:01:10 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 04:01:13 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 04:01:14 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 04:01:20 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-29 04:01:21 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-29 04:01:21 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Clicked
+2025-11-29 04:01:22 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
+2025-11-29 04:08:51 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser launched and navigated to Alarm.com
+2025-11-29 04:08:51 INFO  pageObjects.AlarmLoginPage - Username entered: JCI-ADC-INDIA
+2025-11-29 04:08:51 INFO  pageObjects.AlarmLoginPage - Password entered
+2025-11-29 04:08:51 INFO  pageObjects.AlarmLoginPage - Login button clicked
+2025-11-29 04:09:01 INFO  pageObjects.AlarmLoginPage - login Clicked
+2025-11-29 04:09:01 INFO  pageObjects.AlarmLoginPage - Customer Selected
+2025-11-29 04:09:08 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - CommandCatalog Clicked
+2025-11-29 04:09:09 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Entered
+2025-11-29 04:09:09 INFO  pageObjects.AlarmDealerCommandCatalogTestPage - Bluetooth Clicked
+2025-11-29 04:09:20 INFO  DealerAlarmTestCases.BaseClassAlarmTest - Browser closed
